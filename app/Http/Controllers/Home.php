@@ -15,4 +15,8 @@ class Home extends BaseController
     {
         return view('vw_home_page');
     }
+    public function about_us()
+    {
+        return view('footer-links.about-us');
+    }
 }

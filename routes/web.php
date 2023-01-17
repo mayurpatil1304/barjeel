@@ -19,3 +19,4 @@ use App\Http\Controllers\Home;
 // });
 
 Route::get('/',[Home::class,'index']);
+Route::get('about_us',[Home::class,'about_us']);
