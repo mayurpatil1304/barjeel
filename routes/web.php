@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Home;
+use App\Http\Controllers\Footer_Links;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,5 +20,15 @@ use App\Http\Controllers\Home;
 // });
 
 Route::get('/',[Home::class,'index']);
-Route::get('about_us',[Home::class,'about_us']);
+
+
+//####################################### Footer Links ##############################################
+Route::get('about_us',[Footer_Links::class,'about_us']);
+Route::get('our-team',[Footer_Links::class,'our_team']);
+
+
+
+
+
+
 Route::view('equites', 'navigation_bar\product_and_services\equites');
