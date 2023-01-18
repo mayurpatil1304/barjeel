@@ -85,8 +85,6 @@
         }
         </style>
     </head>
-    <body class="page-template page-template-elementor_header_footer page page-id-759 custom-background wp-embed-responsive ehf-template-twentytwentyone ehf-stylesheet-twentytwentyone jkit-color-scheme is-light-theme has-background-white no-js singular elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-759">
-
         <div data-elementor-type="wp-page" data-elementor-id="759" class="elementor elementor-759">
         <section class="elementor-section elementor-top-section elementor-element elementor-element-6ccafb4a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6ccafb4a" data-element_type="section">
             <div class="elementor-container elementor-column-gap-default">

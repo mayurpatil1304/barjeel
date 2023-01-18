@@ -19,8 +19,32 @@ class Footer_Links extends BaseController
     {
         return view('footer-links.about-us');
     }
-    public function our_team()
+    public function career()
     {
-        return view('footer-links.our_team');
+        return view('footer-links.career');
+    }
+    public function awards()
+    {
+        return view('footer-links.awards');
+    }
+    public function press_release()
+    {
+        return view('footer-links.press-release');
+    }
+    public function privacy_policy()
+    {
+        return view('footer-links.privacy_policy');
+    }
+    public function disclaimer()
+    {
+        return view('footer-links.disclaimer');
+    }
+    public function archives_market_digest()
+    {
+        return view('footer-links.archives-market-digest');
+    }
+    public function investor_grievance()
+    {
+        return view('footer-links.investor_grievance');
     }
 }

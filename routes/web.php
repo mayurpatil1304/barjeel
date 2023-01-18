@@ -20,6 +20,21 @@ use App\Http\Controllers\Footer_Links;
 // });
 
 Route::get('/',[Home::class,'index']);
-Route::get('about_us',[Home::class,'about_us']);
-Route::view('equites', 'navigation_bar\product_and_services\equites');
 
+
+//####################################### Footer Links ##############################################
+Route::get('about-us',[Footer_Links::class,'about_us'])->name('about-us');
+Route::get('career',[Footer_Links::class,'career'])->name('career');
+Route::get('awards',[Footer_Links::class,'awards'])->name('awards');
+Route::get('press-release',[Footer_Links::class,'press_release'])->name('press-release');
+Route::get('Privacy-Policy',[Footer_Links::class,'privacy_policy'])->name('privacy-policy');
+Route::get('Disclaimer',[Footer_Links::class,'disclaimer'])->name('disclaimer');
+Route::get('archives-market-digest',[Footer_Links::class,'archives_market_digest'])->name('archives-market-digest');
+Route::get('investor-grievance',[Footer_Links::class,'investor_grievance'])->name('investor-grievance');
+
+
+
+
+
+
+Route::view('equites', 'navigation_bar\product_and_services\equites');
