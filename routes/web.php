@@ -21,4 +21,4 @@ use App\Http\Controllers\Home;
 Route::get('/',[Home::class,'index']);
 
 
-Route::view('equites', 'navigation_bar\product_and_services\equites');
+Route::view('equites', 'navigation_bat\product_and_services\equites');
