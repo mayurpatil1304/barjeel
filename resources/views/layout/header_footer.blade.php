@@ -662,16 +662,7 @@
          	document.body.classList.add( 'is-IE' );
          }
         </script>
-        <div data-elementor-type="popup" data-elementor-id="969" class="elementor elementor-969 elementor-location-popup" data-elementor-settings="{&quot;triggers&quot;:{&quot;page_load_delay&quot;:1,&quot;page_load&quot;:&quot;yes&quot;},&quot;timing&quot;:[]}">
-         <section class="elementor-section elementor-top-section elementor-element elementor-element-584682e3 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="584682e3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-            <div class="elementor-container elementor-column-gap-default">
-               <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c744d41" data-id="4c744d41" data-element_type="column">
-                  <div class="elementor-widget-wrap">
-                  </div>
-               </div>
-            </div>
-         </section>
-        </div>
+
         <link rel='stylesheet' id='tiny-slider-css' href='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.css?ver=2.9.3' media='all' />
         <link rel='stylesheet' id='e-animations-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5' media='all' />
         <script id='twenty-twenty-one-ie11-polyfills-js-after'>
