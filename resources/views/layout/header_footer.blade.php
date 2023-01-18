@@ -130,9 +130,9 @@
                                           <span class="screen-reader-text">Open menu</span>
                                        </button>
                                        <ul class="sub-menu">
-                                          <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/equities/" class = "hfe-sub-menu-item">Equities</a></li>
-                                          <li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/mutual-fund-barjeel/" class = "hfe-sub-menu-item">Mutual Funds</a></li>
-                                          <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/derivatives/" class = "hfe-sub-menu-item">Derivatives</a></li>
+                                          <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.equites')}}" class = "hfe-sub-menu-item">Equities</a></li>
+                                          <li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.mutual_fund')}}" class = "hfe-sub-menu-item">Mutual Funds</a></li>
+                                          <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.derivatives')}}" class = "hfe-sub-menu-item">Derivatives</a></li>
                                        </ul>
                                     </li>
                                     <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
