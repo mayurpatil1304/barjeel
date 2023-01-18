@@ -20,15 +20,6 @@ use App\Http\Controllers\Footer_Links;
 // });
 
 Route::get('/',[Home::class,'index']);
-
-
-//####################################### Footer Links ##############################################
-Route::get('about_us',[Footer_Links::class,'about_us']);
-Route::get('our-team',[Footer_Links::class,'our_team']);
-
-
-
-
-
-
+Route::get('about_us',[Home::class,'about_us']);
 Route::view('equites', 'navigation_bar\product_and_services\equites');
+
