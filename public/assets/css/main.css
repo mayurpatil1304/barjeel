@@ -1,0 +1,81 @@
+.elementor-969 .elementor-element.elementor-element-584682e3 > .elementor-container {
+    max-width: 300px;
+    min-height: 280px;
+}
+
+.elementor-969 .elementor-element.elementor-element-584682e3:not(.elementor-motion-effects-element-type-background), .elementor-969 .elementor-element.elementor-element-584682e3 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF00;
+    background-image: url("/assets/images/popup.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-969 .elementor-element.elementor-element-584682e3, .elementor-969 .elementor-element.elementor-element-584682e3 > .elementor-background-overlay {
+    border-radius: 50% 50% 50% 50%;
+}
+
+.elementor-969 .elementor-element.elementor-element-584682e3 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    z-index: 0;
+}
+
+.elementor-969 .elementor-element.elementor-element-584682e3 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-969 .elementor-element.elementor-element-4c744d41 > .elementor-element-populated {
+    margin: -153px -153px -153px -153px;
+    --e-column-margin-right: -153px;
+    --e-column-margin-left: -153px;
+}
+
+#elementor-popup-modal-969 .dialog-message {
+    width: 300px;
+    height: auto;
+}
+
+#elementor-popup-modal-969 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0,0,0,.8);
+}
+
+#elementor-popup-modal-969 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-969 .dialog-widget-content {
+    background-color: #D75D5D00;
+}
+
+#elementor-popup-modal-969 .dialog-close-button i {
+    color: #FFFFFF;
+}
+
+#elementor-popup-modal-969 .dialog-close-button svg {
+    fill: #FFFFFF;
+}
+
+@media(max-width: 767px) {
+    .elementor-969 .elementor-element.elementor-element-584682e3 > .elementor-container {
+        min-height:300px;
+    }
+
+    .elementor-969 .elementor-element.elementor-element-584682e3, .elementor-969 .elementor-element.elementor-element-584682e3 > .elementor-background-overlay {
+        border-radius: 300px 300px 300px 300px;
+    }
+
+    .elementor-969 .elementor-element.elementor-element-584682e3 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 4px 4px 4px 4px;
+    }
+
+    .elementor-969 .elementor-element.elementor-element-4c744d41 > .elementor-element-populated {
+        margin: -53px 0px 0px -77px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: -77px;
+    }
+}
