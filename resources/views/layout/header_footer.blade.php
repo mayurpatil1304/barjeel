@@ -586,47 +586,47 @@
                             <div class="elementor-widget-container">
                             <ul class="elementor-icon-list-items elementor-inline-items">
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/about-us/">
+                                    <a href="/about-us">
                                     <span class="elementor-icon-list-text">Our Story</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/about-us/#team">
+                                    <a href="/about-us/#team">
                                     <span class="elementor-icon-list-text">Our Team</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/career/">
+                                    <a href="{{route('career')}}">
                                     <span class="elementor-icon-list-text">Careers</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/awards/">
+                                    <a href="{{route('awards')}}">
                                     <span class="elementor-icon-list-text">Awards</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/press-release/">
+                                    <a href="{{route('press-release')}}">
                                     <span class="elementor-icon-list-text">Press Release</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/privacy-policy/">
+                                    <a href="{{route('privacy-policy')}}">
                                     <span class="elementor-icon-list-text">Privacy Policy</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/disclaimer/">
+                                    <a href="{{route('disclaimer')}}">
                                     <span class="elementor-icon-list-text">Disclaimer</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/archives-market-digest/">
+                                    <a href="{{route('archives-market-digest')}}">
                                     <span class="elementor-icon-list-text">Archives – Market Digest</span>
                                     </a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                    <a href="https://mybarjeel.com/investor-grievance/">
+                                    <a href="{{route('investor-grievance')}}">
                                     <span class="elementor-icon-list-text">Investor Grievance</span>
                                     </a>
                                 </li>

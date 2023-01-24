@@ -57,3 +57,13 @@ Route::get('blog', [knowledge_center::class,'blog_view'])->name('nav.blog');
 Route::get('faq',[knowledge_center::class,'faq_view'])->name('nav.faq');
 Route::get('webinars',[knowledge_center::class,'webinars_view'])->name('nav.webinars');
 
+
+//####################################### Footer Links ##############################################
+Route::get('about-us',[Footer_Links::class,'about_us'])->name('about-us');
+Route::get('career',[Footer_Links::class,'career'])->name('career');
+Route::get('awards',[Footer_Links::class,'awards'])->name('awards');
+Route::get('press-release',[Footer_Links::class,'press_release'])->name('press-release');
+Route::get('Privacy-Policy',[Footer_Links::class,'privacy_policy'])->name('privacy-policy');
+Route::get('Disclaimer',[Footer_Links::class,'disclaimer'])->name('disclaimer');
+Route::get('archives-market-digest',[Footer_Links::class,'archives_market_digest'])->name('archives-market-digest');
+Route::get('investor-grievance',[Footer_Links::class,'investor_grievance'])->name('investor-grievance');
