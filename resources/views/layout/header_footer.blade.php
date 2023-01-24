@@ -151,8 +151,8 @@
                                           <span class="screen-reader-text">Open menu</span>
                                        </button>
                                        <ul class="sub-menu">
-                                          <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/sip-calculator/" class = "hfe-sub-menu-item">SIP Calculator</a></li>
-                                          <li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/goal-calculator/" class = "hfe-sub-menu-item">Goal Calculator</a></li>
+                                          <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.sip_calculator')}}" class = "hfe-sub-menu-item">SIP Calculator</a></li>
+                                          <li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.goal_calculator')}}" class = "hfe-sub-menu-item">Goal Calculator</a></li>
                                        </ul>
                                     </li>
                                     <li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
@@ -171,9 +171,9 @@
                                           <span class="screen-reader-text">Open menu</span>
                                        </button>
                                        <ul class="sub-menu">
-                                          <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/blog/" class = "hfe-sub-menu-item">Blog</a></li>
-                                          <li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/faq/" class = "hfe-sub-menu-item">FAQ</a></li>
-                                          <li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/webinars/" class = "hfe-sub-menu-item">Webinars</a></li>
+                                          <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.blog')}}" class = "hfe-sub-menu-item">Blog</a></li>
+                                          <li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.faq')}}" class = "hfe-sub-menu-item">FAQ</a></li>
+                                          <li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.webinars')}}" class = "hfe-sub-menu-item">Webinars</a></li>
                                        </ul>
                                     </li>
                                  </ul>
@@ -188,7 +188,7 @@
                      <div class="elementor-element elementor-element-83b494 elementor-widget elementor-widget-jkit_dual_button" data-id="83b494" data-element_type="widget" data-widget_type="jkit_dual_button.default">
                         <div class="elementor-widget-container">
                            <div  class="jeg-elementor-kit jkit-dual-button jeg_module_1281__63c686cabe431" >
-                              <div class="jkit-dual-button-wrapper"><a href="https://mybarjeel.com/login/"  class="jkit-dual-btn jkit-dual-button-one icon-position-">Login</a><a href="https://mybarjeel.com/new-investor/"  class="jkit-dual-btn jkit-dual-button-two icon-position-">New Investor</a></div>
+                              <div class="jkit-dual-button-wrapper"><a href="{{route('login.index')}}"  class="jkit-dual-btn jkit-dual-button-one icon-position-">Login</a><a href="{{route('new_investor')}}"  class="jkit-dual-btn jkit-dual-button-two icon-position-">New Investor</a></div>
                            </div>
                         </div>
                      </div>
@@ -409,127 +409,127 @@
                         </div>
                         <section class="elementor-section elementor-inner-section elementor-element elementor-element-2a831fec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a831fec" data-element_type="section">
                             <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-16910ad4" data-id="16910ad4" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-516df360 elementor-widget elementor-widget-heading" data-id="516df360" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Quick Links</h5>
+                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-16910ad4" data-id="16910ad4" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-516df360 elementor-widget elementor-widget-heading" data-id="516df360" data-element_type="widget" data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                            <h5 class="elementor-heading-title elementor-size-default">Quick Links</h5>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-6444227d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6444227d" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                        <link rel="stylesheet" href="https://mybarjeel.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
-                                        <ul class="elementor-icon-list-items">
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/">
-                                                <span class="elementor-icon-list-text">Home</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/about-us/">
-                                                <span class="elementor-icon-list-text">About Us</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/blog/">
-                                                <span class="elementor-icon-list-text">Blog</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/press-release/">
-                                                <span class="elementor-icon-list-text">Press Release</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/career/">
-                                                <span class="elementor-icon-list-text">Careers</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2fc58586" data-id="2fc58586" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-68a2bb6a elementor-widget elementor-widget-heading" data-id="68a2bb6a" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Useful Links</h5>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-293657a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="293657a" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                        <ul class="elementor-icon-list-items">
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/equities/">
-                                                <span class="elementor-icon-list-text">Equities</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/mutual-fund-barjeel/">
-                                                <span class="elementor-icon-list-text">Mutual Funds</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/derivatives/">
-                                                <span class="elementor-icon-list-text">Derivatives</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/sip-calculator/">
-                                                <span class="elementor-icon-list-text">SIP Calculator</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/goal-calculator/">
-                                                <span class="elementor-icon-list-text">Goal  Calculator</span>
-                                                </a>
-                                            </li>
-                                        </ul>
+                                        <div class="elementor-element elementor-element-6444227d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6444227d" data-element_type="widget" data-widget_type="icon-list.default">
+                                            <div class="elementor-widget-container">
+                                            <link rel="stylesheet" href="https://mybarjeel.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
+                                            <ul class="elementor-icon-list-items">
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/">
+                                                    <span class="elementor-icon-list-text">Home</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/about-us/">
+                                                    <span class="elementor-icon-list-text">About Us</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/blog/">
+                                                    <span class="elementor-icon-list-text">Blog</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/press-release/">
+                                                    <span class="elementor-icon-list-text">Press Release</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/career/">
+                                                    <span class="elementor-icon-list-text">Careers</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-14471a47" data-id="14471a47" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-14c4fda elementor-widget elementor-widget-heading" data-id="14c4fda" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Useful Links</h5>
+                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2fc58586" data-id="2fc58586" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-68a2bb6a elementor-widget elementor-widget-heading" data-id="68a2bb6a" data-element_type="widget" data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                            <h5 class="elementor-heading-title elementor-size-default">Useful Links</h5>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-288d4bda elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="288d4bda" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                        <ul class="elementor-icon-list-items">
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/privacy-policy/">
-                                                <span class="elementor-icon-list-text">Privacy Policy</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/terms-conditions/">
-                                                <span class="elementor-icon-list-text">Terms & Conditions</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/disclaimer/">
-                                                <span class="elementor-icon-list-text">Disclaimer</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/support/">
-                                                <span class="elementor-icon-list-text">Support</span>
-                                                </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
-                                                <a href="https://mybarjeel.com/faq/">
-                                                <span class="elementor-icon-list-text">FAQ</span>
-                                                </a>
-                                            </li>
-                                        </ul>
+                                        <div class="elementor-element elementor-element-293657a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="293657a" data-element_type="widget" data-widget_type="icon-list.default">
+                                            <div class="elementor-widget-container">
+                                            <ul class="elementor-icon-list-items">
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/equities/">
+                                                    <span class="elementor-icon-list-text">Equities</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/mutual-fund-barjeel/">
+                                                    <span class="elementor-icon-list-text">Mutual Funds</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/derivatives/">
+                                                    <span class="elementor-icon-list-text">Derivatives</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/sip-calculator/">
+                                                    <span class="elementor-icon-list-text">SIP Calculator</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/goal-calculator/">
+                                                    <span class="elementor-icon-list-text">Goal  Calculator</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-14471a47" data-id="14471a47" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-14c4fda elementor-widget elementor-widget-heading" data-id="14c4fda" data-element_type="widget" data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                            <h5 class="elementor-heading-title elementor-size-default">Useful Links</h5>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-288d4bda elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="288d4bda" data-element_type="widget" data-widget_type="icon-list.default">
+                                            <div class="elementor-widget-container">
+                                            <ul class="elementor-icon-list-items">
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/privacy-policy/">
+                                                    <span class="elementor-icon-list-text">Privacy Policy</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/terms-conditions/">
+                                                    <span class="elementor-icon-list-text">Terms & Conditions</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/disclaimer/">
+                                                    <span class="elementor-icon-list-text">Disclaimer</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/support/">
+                                                    <span class="elementor-icon-list-text">Support</span>
+                                                    </a>
+                                                </li>
+                                                <li class="elementor-icon-list-item">
+                                                    <a href="https://mybarjeel.com/faq/">
+                                                    <span class="elementor-icon-list-text">FAQ</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </section>
                     </div>
