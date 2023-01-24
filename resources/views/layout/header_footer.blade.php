@@ -42,11 +42,40 @@
         <link rel='stylesheet' id='classic-theme-styles-css' href='/assets/css/classic-theme-styles-css.css' media='all' />
         <link rel='stylesheet' id='hfe-style-css' href='/assets/css/hfe-style-css.css' media='all' />
         <link rel='stylesheet' id='elementor-icons-css' href='/assets/css/elementor-icons-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-frontend-css' href='/assets/css/elementor-frontend-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-post-7-css' href='/assets/css/elementor-post-7-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-pro-css' href='/assets/css/elementor-pro-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-post-1281-css' href='/assets/css/elementor-post-1281-css.css' media='all' />
+        <link rel='stylesheet' id='font-awesome-5-all-css' href='assets/css/font-awesome-5-all-css.css' media='all' />
+        <link rel='stylesheet' id='font-awesome-4-shim-css' href='/assets/css/font-awesome-4-shim-css.css' media='all' />
+        <link rel='stylesheet' id='hfe-widgets-style-css' href='/assets/css/hfe-widgets-style-css.css' media='all' />
+        <link rel='stylesheet' id='twenty-twenty-one-style-css' href='/assets/css/twenty-twenty-one-style-css.css' media='all' />
+
+        <link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='/assets/css/twenty-twenty-one-print-style-css.css' media='print' />
+        <link rel='stylesheet' id='elementor-post-84-css' href='/assets/css/elementor-post-84-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-post-86-css' href='/assets/css/elementor-post-86-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='/assets/css/elementor-icons-ekiticons-css.css' media='all' />
+        <link rel='stylesheet' id='ekit-widget-styles-css' href='/assets/css/ekit-widget-styles-css.css' media='all' />
+        <link rel='stylesheet' id='ekit-responsive-css' href='/assets/css/ekit-responsive-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-icons-shared-0-css' href='/assets/css/elementor-icons-shared-0-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='/assets/css/elementor-icons-fa-solid-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='/assets/css/elementor-icons-fa-regular-css.css' media='all' />
+        <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='/assets/css/elementor-icons-fa-brands-css.css' media='all' />
+        <link rel='stylesheet' id='e-animations-css' href='/assets/css/e-animations-css.css' media='all' />
+        <link id='owl-carousel-css' href='/assets/css/owl-carousel-css.css' type='text/css' rel='stylesheet' >
+        <link rel='stylesheet' id='tiny-slider-css' href='/assets/css/tiny-slider-css.css' media='all' />
+        <link rel="stylesheet" href="/assets/css/widget-icon-list.min.css">
+
 
 
         <!--***************************************** JS ********************************************************* -->
         <script src='/assets/js/bootstrap.js'></script>
         <script src='/assets/js/bootstrap.min.js'></script>
+        <script src='/assets/js/font-awesome-4-shim-js.js' id='font-awesome-4-shim-js'></script>
+        <script src='/assets/js/jquery-core-js.js' id='jquery-core-js'></script>
+        <script src='/assets/js/jquery-migrate-js.js' id='jquery-migrate-js'></script>
+        <script src='/assets/js/jquery-migrate-js.js' id='jquery-migrate-js'></script>
+
 
 
         <!--************************************************************************************************** -->
@@ -65,39 +94,41 @@
         </style>
         {{-- <link rel='stylesheet' id='hfe-style-css' href='https://mybarjeel.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.10' media='all' /> --}}
         {{-- <link rel='stylesheet' id='elementor-icons-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' media='all' /> --}}
-        <link rel='stylesheet' id='elementor-frontend-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5' media='all' />
-        <link rel='stylesheet' id='elementor-post-7-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-7.css?ver=1652602009' media='all' />
-        <link rel='stylesheet' id='elementor-pro-css' href='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.0' media='all' />
-        <link rel='stylesheet' id='elementor-post-1281-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-1281.css?ver=1661317041' media='all' />
-        <link rel='stylesheet' id='font-awesome-5-all-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.3.5' media='all' />
-        <link rel='stylesheet' id='font-awesome-4-shim-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.6.5' media='all' />
-        <link rel='stylesheet' id='hfe-widgets-style-css' href='https://mybarjeel.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.10' media='all' />
-        <link rel='stylesheet' id='twenty-twenty-one-style-css' href='https://mybarjeel.com/wp-content/themes/twentytwentyone/style.css?ver=1.5' media='all' />
+        {{-- <link rel='stylesheet' id='elementor-frontend-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-post-7-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-7.css?ver=1652602009' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-pro-css' href='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.0' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-post-1281-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-1281.css?ver=1661317041' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='font-awesome-5-all-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.3.5' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='font-awesome-4-shim-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.6.5' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='hfe-widgets-style-css' href='https://mybarjeel.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.10' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='twenty-twenty-one-style-css' href='https://mybarjeel.com/wp-content/themes/twentytwentyone/style.css?ver=1.5' media='all' /> --}}
         <style id='twenty-twenty-one-style-inline-css'>
             :root{--global--color-background: #ffffff;--global--color-primary: #000;--global--color-secondary: #000;--button--color-background: #000;--button--color-text-hover: #000;}
         </style>
-        <link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='https://mybarjeel.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.5' media='print' />
+        {{-- <link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='https://mybarjeel.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.5' media='print' /> --}}
         {{-- <link rel='stylesheet' id='elementor-post-969-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-969.css?ver=1652602010' media='all' /> --}}
-        <link rel='stylesheet' id='elementor-post-84-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-84.css?ver=1652602010' media='all' />
-        <link rel='stylesheet' id='elementor-post-86-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-86.css?ver=1660804000' media='all' />
-        <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://mybarjeel.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.9' media='all' />
-        <link rel='stylesheet' id='ekit-widget-styles-css' href='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.9' media='all' />
-        <link rel='stylesheet' id='ekit-responsive-css' href='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.9' media='all' />
+        {{-- <link rel='stylesheet' id='elementor-post-84-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-84.css?ver=1652602010' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-post-86-css' href='https://mybarjeel.com/wp-content/uploads/elementor/css/post-86.css?ver=1660804000' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://mybarjeel.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.9' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='ekit-widget-styles-css' href='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.9' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='ekit-responsive-css' href='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.9' media='all' /> --}}
         <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Playfair+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CHeebo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUbuntu%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.1.1' media='all' />
-        <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
-        <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
-        <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
-        <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
-        <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.6.5' id='font-awesome-4-shim-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+        {{-- <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' /> --}}
+
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.6.5' id='font-awesome-4-shim-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script> --}}
+
+        {{-- <script src='https://mybarjeel.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> --}}
         <link rel="https://api.w.org/" href="https://mybarjeel.com/wp-json/" />
         <link rel="alternate" type="application/json" href="https://mybarjeel.com/wp-json/wp/v2/pages/1281" />
         <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mybarjeel.com/xmlrpc.php?rsd" />
         <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mybarjeel.com/wp-includes/wlwmanifest.xml" />
         <meta name="generator" content="WordPress 6.1.1" />
-        <link rel="canonical" href="https://mybarjeel.com/" />
-        <link rel='shortlink' href='https://mybarjeel.com/' />
+        <link rel="canonical" href="http://127.0.0.1:8000/" />
+        <link rel='shortlink' href='http://127.0.0.1:8000/' />
         <link rel="alternate" type="application/json+oembed" href="https://mybarjeel.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmybarjeel.com%2F" />
         <link rel="alternate" type="text/xml+oembed" href="https://mybarjeel.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmybarjeel.com%2F&#038;format=xml" />
         <style id="custom-background-css">
@@ -443,7 +474,7 @@
                                         </div>
                                         <div class="elementor-element elementor-element-6444227d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6444227d" data-element_type="widget" data-widget_type="icon-list.default">
                                             <div class="elementor-widget-container">
-                                            <link rel="stylesheet" href="https://mybarjeel.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
+                                            {{-- <link rel="stylesheet" href="https://mybarjeel.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"> --}}
                                             <ul class="elementor-icon-list-items">
                                                 <li class="elementor-icon-list-item">
                                                     <a href="https://mybarjeel.com/">
@@ -688,8 +719,8 @@
          }
         </script>
 
-        <link rel='stylesheet' id='tiny-slider-css' href='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.css?ver=2.9.3' media='all' />
-        <link rel='stylesheet' id='e-animations-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5' media='all' />
+        {{-- <link rel='stylesheet' id='tiny-slider-css' href='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.css?ver=2.9.3' media='all' /> --}}
+        {{-- <link rel='stylesheet' id='e-animations-css' href='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5' media='all' /> --}}
         <script id='twenty-twenty-one-ie11-polyfills-js-after'>
             ( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="https://mybarjeel.com/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.5"></scr' + 'ipt>' );
         </script>

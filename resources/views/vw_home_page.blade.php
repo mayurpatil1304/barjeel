@@ -692,7 +692,7 @@
                             <div class="elementor-element elementor-element-2fbf6ae elementor-widget elementor-widget-ucaddon_uc_card_post_carousel" data-id="2fbf6ae" data-element_type="widget" data-widget_type="ucaddon_uc_card_post_carousel.default">
                                <div class="elementor-widget-container">
                                   <!-- start Card Post Carousel -->
-                                  <link id='owl-carousel-css' href='https://mybarjeel.com/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/owl-carousel-new/assets/owl.carousel.css' type='text/css' rel='stylesheet' >
+                                  {{-- <link id='owl-carousel-css' href='https://mybarjeel.com/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/owl-carousel-new/assets/owl.carousel.css' type='text/css' rel='stylesheet' > --}}
                                   <style type="text/css">/* widget: Card Post Carousel */
                                      #uc_uc_card_post_carousel_elementor19299 *{
                                      box-sizing:border-box;
