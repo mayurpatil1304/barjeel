@@ -738,7 +738,9 @@
                 </div>
             </section>
         </div>
-        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.body.classList.remove("no-js");</script>	<script>
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script>document.body.classList.remove("no-js");</script>
+        <script>
          if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
          	document.body.classList.add( 'is-IE' );
          }
