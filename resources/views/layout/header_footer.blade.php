@@ -30,7 +30,13 @@
         <!--************************************************************************************************** -->
         <!--***************************************** CSS ********************************************************* -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link src="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet"  type='text/css'>
         <link rel='stylesheet' id='elementor-post-969-css' href='/assets/css/main.css' media='all'/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
         {{-- <link rel='stylesheet' href='/assets/css/font-awesome-ie7.css' media='all'/> --}}
         {{-- <link rel='stylesheet' href='/assets/css/font-awesome-ie7.min.css' media='all'/> --}}
         {{-- <link rel='stylesheet' href='/assets/css/font-awesome.css' media='all'/> --}}
