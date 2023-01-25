@@ -117,7 +117,7 @@
                                       <div class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_2247_2_63ca2f98280f6">
                                          <div class="jkit-icon-box-wrapper hover-from-left">
                                             <div class="icon-box icon-box-header elementor-animation-">
-                                               <div class="icon style-color"><i aria-hidden="true" class="icon icon-users2"></i></div>
+                                               <div class="icon style-color"><i class='fas fa-user-friends' style='font-size:48px'></i></div>
                                             </div>
                                             <div class="icon-box icon-box-body">
                                                <h2 class="title">Customer Care </h2>
@@ -140,7 +140,7 @@
                                       <div class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_2247_3_63ca2f982ae91">
                                          <div class="jkit-icon-box-wrapper hover-from-left">
                                             <div class="icon-box icon-box-header elementor-animation-">
-                                               <div class="icon style-color"><i aria-hidden="true" class="icon icon-finance-book"></i></div>
+                                               <div class="icon style-color"><i class='fas fa-file-invoice-dollar' style='font-size:36px'></i></div>
                                             </div>
                                             <div class="icon-box icon-box-body">
                                                <h2 class="title">DGCX </h2>
@@ -163,7 +163,7 @@
                                       <div class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_2247_4_63ca2f982da42">
                                          <div class="jkit-icon-box-wrapper hover-from-left">
                                             <div class="icon-box icon-box-header elementor-animation-">
-                                               <div class="icon style-color"><i aria-hidden="true" class="icon icon-graph-2"></i></div>
+                                               <div class="icon style-color"><i class="fa fa-line-chart"></I></div>
                                             </div>
                                             <div class="icon-box icon-box-body">
                                                <h2 class="title">Trade</h2>
