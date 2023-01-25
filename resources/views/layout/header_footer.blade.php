@@ -797,7 +797,7 @@
         </script>
         {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.9' id='elementskit-elementor-js'></script> --}}
         {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.9' id='swiper-js'></script> --}}
-        <!--   Unlimited Elements Scripts  -->
+                        <!--   Unlimited Elements Scripts  -->
         <script type='text/javascript'>
             // Card Post Carousel scripts:
             jQuery(document).ready(function(jQuery) {
