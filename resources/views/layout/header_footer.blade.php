@@ -29,14 +29,14 @@
 
         <!--************************************************************************************************** -->
         <!--***************************************** CSS ********************************************************* -->
-
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
         <link rel='stylesheet' id='elementor-post-969-css' href='/assets/css/main.css' media='all'/>
-        <link rel='stylesheet' href='/assets/css/font-awesome-ie7.css' media='all'/>
-        <link rel='stylesheet' href='/assets/css/font-awesome-ie7.min.css' media='all'/>
-        <link rel='stylesheet' href='/assets/css/font-awesome.css' media='all'/>
-        <link rel='stylesheet' href='/assets/css/font-awesome.min.css' media='all'/>
-        <link rel='stylesheet' href='/assets/css/bootstrap.css' media='all'/>
-        <link rel='stylesheet' href='/assets/css/bootstrap.min.css' media='all'/>
+        {{-- <link rel='stylesheet' href='/assets/css/font-awesome-ie7.css' media='all'/> --}}
+        {{-- <link rel='stylesheet' href='/assets/css/font-awesome-ie7.min.css' media='all'/> --}}
+        {{-- <link rel='stylesheet' href='/assets/css/font-awesome.css' media='all'/> --}}
+        {{-- <link rel='stylesheet' href='/assets/css/font-awesome.min.css' media='all'/> --}}
+        {{-- <link rel='stylesheet' href='/assets/css/bootstrap.css' media='all'/> --}}
+        {{-- <link rel='stylesheet' href='/assets/css/bootstrap.min.css' media='all'/> --}}
         <link rel='stylesheet' id='jkit-elements-main-css' href='/assets/css/jkit-elements-main-css.css' media='all' />
         <link rel='stylesheet' id='wp-block-library-css' href='/assets/css/wp-block-library-css.css' media='all' />
         <link rel='stylesheet' id='classic-theme-styles-css' href='/assets/css/classic-theme-styles-css.css' media='all' />
