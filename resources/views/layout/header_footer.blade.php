@@ -74,7 +74,32 @@
         <script src='/assets/js/font-awesome-4-shim-js.js' id='font-awesome-4-shim-js'></script>
         <script src='/assets/js/jquery-core-js.js' id='jquery-core-js'></script>
         <script src='/assets/js/jquery-migrate-js.js' id='jquery-migrate-js'></script>
-        <script src='/assets/js/jquery-migrate-js.js' id='jquery-migrate-js'></script>
+
+        <script src='/assets/js/animate-circle-js.js' id='animate-circle-js'></script>
+        <script src='/assets/js/jkit-element-animatedtext-js.js' id='jkit-element-animatedtext-js'></script>
+        <script src='/assets/js/jquery-ui-core-js.js' id='jquery-ui-core-js'></script>
+        <script src='/assets/js/elementskit-elementor-js.js' id='elementskit-elementor-js'></script>
+        <script src='/assets/js/pro-elements-handlers-js.js' id='pro-elements-handlers-js'></script>
+        <script src='/assets/js/elementor-frontend-modules-js.js' id='elementor-frontend-modules-js'></script>
+        <script src='/assets/js/elementor-webpack-runtime-js.js' id='elementor-webpack-runtime-js'></script>
+        <script src='/assets/js/ekit-widget-scripts-js.js' id='ekit-widget-scripts-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js?ver=2.5.9' id='datatables-js'></script> --}}
+        <script src='/assets/js/hfe-frontend-js-js.js' id='hfe-frontend-js-js'></script>
+        <script src='/assets/js/elementor-frontend-js.js' id='elementor-frontend-js'></script>
+        {{--<script src='/assets/js/elementor-pro-frontend-js.js' id='elementor-pro-frontend-js'></script>--}}
+        <script src='/assets/js/wp-hooks-js.js' id='wp-hooks-js'></script>
+        <script src='/assets/js/wp-i18n-js.js' id='wp-i18n-js'></script>
+        <script src='/assets/js/imagesloaded-js.js' id='imagesloaded-js'></script>
+        <script src='/assets/js/owl-carousel-js.js' id='owl-carousel-js'></script>
+        <script src='/assets/js/regenerator-runtime-js.js' id='regenerator-runtime-js'></script>
+        <script src='/assets/js/twenty-twenty-one-responsive-embeds-script-js.js' id='twenty-twenty-one-responsive-embeds-script-js'></script>
+        <script src='/assets/js/jkit-sticky-element-js.js' id='jkit-sticky-element-js'></script>
+        <script src='/assets/js/swiper-js.js' id='swiper-js'></script>
+        <script src='/assets/js/jkit-element-testimonials-js.js' id='jkit-element-testimonials-js'></script>
+        <script src='/assets/js/tiny-slider-js.js' id='tiny-slider-js'></script>
+        <script src='/assets/js/elementor-waypoints-js.js' id='elementor-waypoints-js'></script>
+        <script src='/assets/js/elementor-pro-webpack-runtime-js.js' id='elementor-pro-webpack-runtime-js'></script>
+        <script src='/assets/js/wp-polyfill-js.js' id='wp-polyfill-js'></script>
 
 
 
@@ -144,219 +169,219 @@
     <body class="home page-template page-template-elementor_header_footer page page-id-1281 custom-background wp-embed-responsive ehf-template-twentytwentyone ehf-stylesheet-twentytwentyone jkit-color-scheme is-light-theme has-background-white no-js singular elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-1281">
         <div data-elementor-type="header" data-elementor-id="84" class="elementor elementor-84 elementor-location-header">
             <section class="elementor-section elementor-top-section elementor-element elementor-element-4a126ada elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="4a126ada" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-no">
-               <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5f60d04c" data-id="5f60d04c" data-element_type="column">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-5c1c49d0 elementor-widget elementor-widget-image" data-id="5c1c49d0" data-element_type="widget" data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                           <style>/*! elementor - v3.6.5 - 27-04-2022 */
-                              .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
-                           </style>
-                           <a href="http://127.0.0.1:8000/">
-                           <img width="259" height="81" src="assets/images/logo.png" class="attachment-large size-large" alt="" loading="lazy" style="width:100%;height:31.27%;max-width:259px" />								</a>
+                <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5f60d04c" data-id="5f60d04c" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-5c1c49d0 elementor-widget elementor-widget-image" data-id="5c1c49d0" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                            <style>/*! elementor - v3.6.5 - 27-04-2022 */
+                                .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
+                            </style>
+                            <a href="http://127.0.0.1:8000/">
+                            <img width="259" height="81" src="assets/images/logo.png" class="attachment-large size-large" alt="" loading="lazy" style="width:100%;height:31.27%;max-width:259px" />								</a>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-41ea0324" data-id="41ea0324" data-element_type="column">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-1f49e807 hfe-nav-menu__align-right hfe-nav-menu__theme-icon-no hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="1f49e807" data-element_type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
-                        <div class="elementor-widget-container">
-                           <div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
-                              <div class="hfe-nav-menu__toggle elementor-clickable">
-                                 <div class="hfe-nav-menu-icon">
-                                    <i aria-hidden="true" tabindex="0" class="fas fa-align-justify"></i>
-                                 </div>
-                              </div>
-                              <nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
-                                 <ul id="menu-1-1f49e807" class="hfe-nav-menu">
-                                    <li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
-                                       <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Products &#038; Services<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-                                       <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
-                                          <span class="icon-plus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="icon-minus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="screen-reader-text">Open menu</span>
-                                       </button>
-                                       <ul class="sub-menu">
-                                          <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.equites')}}" class = "hfe-sub-menu-item">Equities</a></li>
-                                          <li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.mutual_fund')}}" class = "hfe-sub-menu-item">Mutual Funds</a></li>
-                                          <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.derivatives')}}" class = "hfe-sub-menu-item">Derivatives</a></li>
-                                       </ul>
-                                    </li>
-                                    <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
-                                       <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Goal Planner<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-                                       <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
-                                          <span class="icon-plus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="icon-minus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="screen-reader-text">Open menu</span>
-                                       </button>
-                                       <ul class="sub-menu">
-                                          <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.sip_calculator')}}" class = "hfe-sub-menu-item">SIP Calculator</a></li>
-                                          <li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.goal_calculator')}}" class = "hfe-sub-menu-item">Goal Calculator</a></li>
-                                       </ul>
-                                    </li>
-                                    <li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
-                                       <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Knowledge Center<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-                                       <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
-                                          <span class="icon-plus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="icon-minus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="screen-reader-text">Open menu</span>
-                                       </button>
-                                       <ul class="sub-menu">
-                                          <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.blog')}}" class = "hfe-sub-menu-item">Blog</a></li>
-                                          <li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.faq')}}" class = "hfe-sub-menu-item">FAQ</a></li>
-                                          <li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.webinars')}}" class = "hfe-sub-menu-item">Webinars</a></li>
-                                       </ul>
-                                    </li>
-                                 </ul>
-                              </nav>
-                           </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-41ea0324" data-id="41ea0324" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-1f49e807 hfe-nav-menu__align-right hfe-nav-menu__theme-icon-no hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="1f49e807" data-element_type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
+                            <div class="elementor-widget-container">
+                            <div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+                                <div class="hfe-nav-menu__toggle elementor-clickable">
+                                    <div class="hfe-nav-menu-icon">
+                                        <i aria-hidden="true" tabindex="0" class="fas fa-align-justify"></i>
+                                    </div>
+                                </div>
+                                <nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
+                                    <ul id="menu-1-1f49e807" class="hfe-nav-menu">
+                                        <li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
+                                        <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Products &#038; Services<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+                                        <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
+                                            <span class="icon-plus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="icon-minus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="screen-reader-text">Open menu</span>
+                                        </button>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.equites')}}" class = "hfe-sub-menu-item">Equities</a></li>
+                                            <li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.mutual_fund')}}" class = "hfe-sub-menu-item">Mutual Funds</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.derivatives')}}" class = "hfe-sub-menu-item">Derivatives</a></li>
+                                        </ul>
+                                        </li>
+                                        <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
+                                        <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Goal Planner<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+                                        <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
+                                            <span class="icon-plus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="icon-minus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="screen-reader-text">Open menu</span>
+                                        </button>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.sip_calculator')}}" class = "hfe-sub-menu-item">SIP Calculator</a></li>
+                                            <li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.goal_calculator')}}" class = "hfe-sub-menu-item">Goal Calculator</a></li>
+                                        </ul>
+                                        </li>
+                                        <li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
+                                        <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Knowledge Center<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+                                        <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
+                                            <span class="icon-plus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="icon-minus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="screen-reader-text">Open menu</span>
+                                        </button>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.blog')}}" class = "hfe-sub-menu-item">Blog</a></li>
+                                            <li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.faq')}}" class = "hfe-sub-menu-item">FAQ</a></li>
+                                            <li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="{{route('nav.webinars')}}" class = "hfe-sub-menu-item">Webinars</a></li>
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-601ea747 elementor-hidden-phone" data-id="601ea747" data-element_type="column">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-83b494 elementor-widget elementor-widget-jkit_dual_button" data-id="83b494" data-element_type="widget" data-widget_type="jkit_dual_button.default">
-                        <div class="elementor-widget-container">
-                           <div  class="jeg-elementor-kit jkit-dual-button jeg_module_1281__63c686cabe431" >
-                              <div class="jkit-dual-button-wrapper"><a href="{{route('login.index')}}"  class="jkit-dual-btn jkit-dual-button-one icon-position-">Login</a><a href="{{route('new_investor')}}"  class="jkit-dual-btn jkit-dual-button-two icon-position-">New Investor</a></div>
-                           </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-601ea747 elementor-hidden-phone" data-id="601ea747" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-83b494 elementor-widget elementor-widget-jkit_dual_button" data-id="83b494" data-element_type="widget" data-widget_type="jkit_dual_button.default">
+                            <div class="elementor-widget-container">
+                            <div  class="jeg-elementor-kit jkit-dual-button jeg_module_1281__63c686cabe431" >
+                                <div class="jkit-dual-button-wrapper"><a href="{{route('login.index')}}"  class="jkit-dual-btn jkit-dual-button-one icon-position-">Login</a><a href="{{route('new_investor')}}"  class="jkit-dual-btn jkit-dual-button-two icon-position-">New Investor</a></div>
+                            </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
+                    </div>
+                </div>
+                </div>
             </section>
             <section class="elementor-section elementor-top-section elementor-element elementor-element-23d599f7 elementor-section-full_width elementor-section-content-middle elementor-hidden-desktop elementor-section-height-default elementor-section-height-default" data-id="23d599f7" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-default">
-               <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-272d569c" data-id="272d569c" data-element_type="column">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-4dc4f3df elementor-widget elementor-widget-image" data-id="4dc4f3df" data-element_type="widget" data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                           <a href="https://mybarjeel.com/">
-                           <img width="259" height="81" src="https://mybarjeel.com/wp-content/uploads/2021/11/logo.png" class="attachment-large size-large" alt="" loading="lazy" style="width:100%;height:31.27%;max-width:259px" />								</a>
+                <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-272d569c" data-id="272d569c" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-4dc4f3df elementor-widget elementor-widget-image" data-id="4dc4f3df" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                            <a href="http://127.0.0.1:8000/">
+                            <img width="259" height="81" src="/assets/images/logo.png" class="attachment-large size-large" alt="" loading="lazy" style="width:100%;height:31.27%;max-width:259px" />								</a>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4f434b1f" data-id="4f434b1f" data-element_type="column">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-1cd91e44 elementor-widget elementor-widget-jkit_dual_button" data-id="1cd91e44" data-element_type="widget" data-widget_type="jkit_dual_button.default">
-                        <div class="elementor-widget-container">
-                           <div  class="jeg-elementor-kit jkit-dual-button jeg_module_1281_1_63c686cac4a36" >
-                              <div class="jkit-dual-button-wrapper"><a href="https://mybarjeel.com/login/"  class="jkit-dual-btn jkit-dual-button-one icon-position-">Login</a><a href="https://mybarjeel.com/new-investor/"  class="jkit-dual-btn jkit-dual-button-two icon-position-">New Investor</a></div>
-                           </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4f434b1f" data-id="4f434b1f" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-1cd91e44 elementor-widget elementor-widget-jkit_dual_button" data-id="1cd91e44" data-element_type="widget" data-widget_type="jkit_dual_button.default">
+                            <div class="elementor-widget-container">
+                            <div  class="jeg-elementor-kit jkit-dual-button jeg_module_1281_1_63c686cac4a36" >
+                                <div class="jkit-dual-button-wrapper"><a href="https://mybarjeel.com/login/"  class="jkit-dual-btn jkit-dual-button-one icon-position-">Login</a><a href="https://mybarjeel.com/new-investor/"  class="jkit-dual-btn jkit-dual-button-two icon-position-">New Investor</a></div>
+                            </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-36f84b32" data-id="36f84b32" data-element_type="column">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-6b36b23 hfe-nav-menu__align-right hfe-nav-menu__theme-icon-no hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="6b36b23" data-element_type="widget" data-settings="{&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:34,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
-                        <div class="elementor-widget-container">
-                           <div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
-                              <div class="hfe-nav-menu__toggle elementor-clickable">
-                                 <div class="hfe-nav-menu-icon">
-                                    <i aria-hidden="true" tabindex="0" class="fas fa-align-justify"></i>
-                                 </div>
-                              </div>
-                              <nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
-                                 <ul id="menu-1-6b36b23" class="hfe-nav-menu">
-                                    <li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
-                                       <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Products &#038; Services<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-                                       <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
-                                          <span class="icon-plus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="icon-minus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="screen-reader-text">Open menu</span>
-                                       </button>
-                                       <ul class="sub-menu">
-                                          <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/equities/" class = "hfe-sub-menu-item">Equities</a></li>
-                                          <li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/mutual-fund-barjeel/" class = "hfe-sub-menu-item">Mutual Funds</a></li>
-                                          <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/derivatives/" class = "hfe-sub-menu-item">Derivatives</a></li>
-                                       </ul>
-                                    </li>
-                                    <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
-                                       <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Goal Planner<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-                                       <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
-                                          <span class="icon-plus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="icon-minus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="screen-reader-text">Open menu</span>
-                                       </button>
-                                       <ul class="sub-menu">
-                                          <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/sip-calculator/" class = "hfe-sub-menu-item">SIP Calculator</a></li>
-                                          <li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/goal-calculator/" class = "hfe-sub-menu-item">Goal Calculator</a></li>
-                                       </ul>
-                                    </li>
-                                    <li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
-                                       <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Knowledge Center<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-                                       <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
-                                          <span class="icon-plus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="icon-minus">
-                                             <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
-                                             </svg>
-                                          </span>
-                                          <span class="screen-reader-text">Open menu</span>
-                                       </button>
-                                       <ul class="sub-menu">
-                                          <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/blog/" class = "hfe-sub-menu-item">Blog</a></li>
-                                          <li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/faq/" class = "hfe-sub-menu-item">FAQ</a></li>
-                                          <li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/webinars/" class = "hfe-sub-menu-item">Webinars</a></li>
-                                       </ul>
-                                    </li>
-                                 </ul>
-                              </nav>
-                           </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-36f84b32" data-id="36f84b32" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-6b36b23 hfe-nav-menu__align-right hfe-nav-menu__theme-icon-no hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="6b36b23" data-element_type="widget" data-settings="{&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:34,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
+                            <div class="elementor-widget-container">
+                            <div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+                                <div class="hfe-nav-menu__toggle elementor-clickable">
+                                    <div class="hfe-nav-menu-icon">
+                                        <i aria-hidden="true" tabindex="0" class="fas fa-align-justify"></i>
+                                    </div>
+                                </div>
+                                <nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
+                                    <ul id="menu-1-6b36b23" class="hfe-nav-menu">
+                                        <li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
+                                        <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Products &#038; Services<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+                                        <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
+                                            <span class="icon-plus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="icon-minus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="screen-reader-text">Open menu</span>
+                                        </button>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/equities/" class = "hfe-sub-menu-item">Equities</a></li>
+                                            <li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/mutual-fund-barjeel/" class = "hfe-sub-menu-item">Mutual Funds</a></li>
+                                            <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/derivatives/" class = "hfe-sub-menu-item">Derivatives</a></li>
+                                        </ul>
+                                        </li>
+                                        <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
+                                        <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Goal Planner<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+                                        <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
+                                            <span class="icon-plus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="icon-minus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="screen-reader-text">Open menu</span>
+                                        </button>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/sip-calculator/" class = "hfe-sub-menu-item">SIP Calculator</a></li>
+                                            <li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/goal-calculator/" class = "hfe-sub-menu-item">Goal Calculator</a></li>
+                                        </ul>
+                                        </li>
+                                        <li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
+                                        <div class="hfe-has-submenu-container"><a href="#" class = "hfe-menu-item">Knowledge Center<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+                                        <button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)">
+                                            <span class="icon-plus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="icon-minus">
+                                                <svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/>
+                                                </svg>
+                                            </span>
+                                            <span class="screen-reader-text">Open menu</span>
+                                        </button>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/blog/" class = "hfe-sub-menu-item">Blog</a></li>
+                                            <li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/faq/" class = "hfe-sub-menu-item">FAQ</a></li>
+                                            <li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://mybarjeel.com/webinars/" class = "hfe-sub-menu-item">Webinars</a></li>
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
+                    </div>
+                </div>
+                </div>
             </section>
         </div>
 
@@ -369,7 +394,7 @@
                     <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-149134e6 elementor-widget elementor-widget-image" data-id="149134e6" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
-                            <img width="442" height="150" src="https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo.png 442w, https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo-300x102.png 300w" sizes="(max-width: 442px) 100vw, 442px" style="width:100%;height:33.94%;max-width:442px" />
+                            <img width="442" height="150" src="/assets/images/footerlogo.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo.png 442w, https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo-300x102.png 300w" sizes="(max-width: 442px) 100vw, 442px" style="width:100%;height:33.94%;max-width:442px" />
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-425194f elementor-widget elementor-widget-text-editor" data-id="425194f" data-element_type="widget" data-widget_type="text-editor.default">
@@ -598,7 +623,7 @@
                     <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-02eb8dc elementor-widget elementor-widget-image" data-id="02eb8dc" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
-                            <img width="442" height="150" src="https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo.png 442w, https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo-300x102.png 300w" sizes="(max-width: 442px) 100vw, 442px" style="width:100%;height:33.94%;max-width:442px" />
+                            <img width="442" height="150" src="/assets/images/footerlogo.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo.png 442w, https://mybarjeel.com/wp-content/uploads/2021/12/footerlogo-300x102.png 300w" sizes="(max-width: 442px) 100vw, 442px" style="width:100%;height:33.94%;max-width:442px" />
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-42daf3f elementor-widget elementor-widget-text-editor" data-id="42daf3f" data-element_type="widget" data-widget_type="text-editor.default">
@@ -724,21 +749,19 @@
         <script id='twenty-twenty-one-ie11-polyfills-js-after'>
             ( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="https://mybarjeel.com/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.5"></scr' + 'ipt>' );
         </script>
-        <script src='https://mybarjeel.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.5' id='twenty-twenty-one-responsive-embeds-script-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.9' id='elementskit-framework-js-frontend-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.5' id='twenty-twenty-one-responsive-embeds-script-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.9' id='elementskit-framework-js-frontend-js'></script> --}}
         <script id='elementskit-framework-js-frontend-js-after'>
             var elementskit = {
                    resturl: 'https://mybarjeel.com/wp-json/elementskit/v1/',
                }
-
-
         </script>
-        <script src='https://mybarjeel.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js?ver=2.5.9' id='datatables-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js?ver=2.5.9' id='datatables-js'></script>
         <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.9' id='ekit-widget-scripts-js'></script>
         <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5' id='elementor-webpack-runtime-js'></script>
         <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5' id='elementor-frontend-modules-js'></script>
         <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+        <script src='https://mybarjeel.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script> --}}
         <script id='elementor-frontend-js-before'>
             var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/mybarjeel.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1281,"title":"Barjeel%20Geojit%20Financial%20Services%20L.L.C","excerpt":"","featuredImage":false}};
         </script>
@@ -746,18 +769,18 @@
         <script id='elementor-frontend-js-after'>
             var jkit_ajax_url = "https://mybarjeel.com/?jkit-ajax-request=jkit_elements", jkit_nonce = "c5cec255e8";
         </script>
-        <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.4.2' id='jkit-sticky-element-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.10' id='hfe-frontend-js-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.4.2' id='jkit-sticky-element-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.10' id='hfe-frontend-js-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script> --}}
         <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/animated-text.js?ver=2.4.2' id='jkit-element-animatedtext-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials.js?ver=2.4.2' id='jkit-element-testimonials-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.js?ver=2.9.3' id='tiny-slider-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials.js?ver=2.4.2' id='jkit-element-testimonials-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-slider.js?ver=2.9.3' id='tiny-slider-js'></script> --}}
         <script src='https://mybarjeel.com/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.12' id='owl-carousel-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.0' id='elementor-pro-webpack-runtime-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
-        <script src='https://mybarjeel.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.0' id='elementor-pro-webpack-runtime-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+        <script src='https://mybarjeel.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script> --}}
         <script id='wp-i18n-js-after'>
             wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
         </script>
@@ -765,13 +788,13 @@
             var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/mybarjeel.com\/wp-admin\/admin-ajax.php","nonce":"af7c9d8e3a","urls":{"assets":"https:\/\/mybarjeel.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/mybarjeel.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/mybarjeel.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
         </script>
         <script src='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.0' id='elementor-pro-frontend-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.0' id='pro-elements-handlers-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.9' id='animate-circle-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.0' id='pro-elements-handlers-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.9' id='animate-circle-js'></script> --}}
         <script id='elementskit-elementor-js-extra'>
             var ekit_config = {"ajaxurl":"https:\/\/mybarjeel.com\/wp-admin\/admin-ajax.php","nonce":"677cdec9ba"};
         </script>
-        <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.9' id='elementskit-elementor-js'></script>
-        <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.9' id='swiper-js'></script>
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.9' id='elementskit-elementor-js'></script> --}}
+        {{-- <script src='https://mybarjeel.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.9' id='swiper-js'></script> --}}
         <!--   Unlimited Elements Scripts  -->
         <script type='text/javascript'>
             // Card Post Carousel scripts:

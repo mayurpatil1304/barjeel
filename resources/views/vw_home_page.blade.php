@@ -400,7 +400,7 @@
              <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-d093270 elementor-widget elementor-widget-image" data-id="d093270" data-element_type="widget" data-widget_type="image.default">
                    <div class="elementor-widget-container">
-                      <img decoding="async" width="1600" height="600" src="https://mybarjeel.com/wp-content/uploads/2021/12/about.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/12/about.jpg 1600w, https://mybarjeel.com/wp-content/uploads/2021/12/about-300x113.jpg 300w, https://mybarjeel.com/wp-content/uploads/2021/12/about-1024x384.jpg 1024w, https://mybarjeel.com/wp-content/uploads/2021/12/about-768x288.jpg 768w, https://mybarjeel.com/wp-content/uploads/2021/12/about-1536x576.jpg 1536w, https://mybarjeel.com/wp-content/uploads/2021/12/about-1568x588.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" style="width:100%;height:37.5%;max-width:1600px" />
+                      <img decoding="async" width="1600" height="600" src="/assets/images/about.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/assets/images/about.jpg 1600w, /assets/images/about-300x113.jpg 300w, /assets/images/about-1024x384.jpg 1024w, /assets/images/about-768x288.jpg 768w, /assets/images/about-1536x576.jpg 1536w, /assets/images/about-1568x588.jpg 1568w" sizes="(max-width: 1600px) 100vw, 1600px" style="width:100%;height:37.5%;max-width:1600px" />
                    </div>
                 </div>
              </div>
@@ -754,7 +754,7 @@
                                         <div class="uc_image_carousel_container_holder ue_post_carousel_item">
                                            <div class="uc_image_carousel_placeholder">
                                               <a href="https://mybarjeel.com/2021/11/13/this-stocks-a-cautionary-tale-of-the-risks-of-passive-investing/">
-                                                 <div style="background-image:url(https://mybarjeel.com/wp-content/uploads/2021/11/2.jpg); background-size:cover; background-position:center; height:250px;"></div>
+                                                 <div style="background-image:url(/assets/images/2.jpg); background-size:cover; background-position:center; height:250px;"></div>
                                               </a>
                                            </div>
                                            <div class="uc_image_carousel_content" >
@@ -768,7 +768,7 @@
                                         <div class="uc_image_carousel_container_holder ue_post_carousel_item">
                                            <div class="uc_image_carousel_placeholder">
                                               <a href="https://mybarjeel.com/2021/11/13/a-finance-and-investment-blog-focusing-on-current-events/">
-                                                 <div style="background-image:url(https://mybarjeel.com/wp-content/uploads/2021/11/1.jpg); background-size:cover; background-position:center; height:250px;"></div>
+                                                 <div style="background-image:url(/assets/images/1.jpg); background-size:cover; background-position:center; height:250px;"></div>
                                               </a>
                                            </div>
                                            <div class="uc_image_carousel_content" >
@@ -782,7 +782,7 @@
                                         <div class="uc_image_carousel_container_holder ue_post_carousel_item">
                                            <div class="uc_image_carousel_placeholder">
                                               <a href="https://mybarjeel.com/2021/11/13/this-blog-is-about-money-managing-risk-and-living-a-life/">
-                                                 <div style="background-image:url(https://mybarjeel.com/wp-content/uploads/2021/11/business-crisis-management-1024x681-1.jpg); background-size:cover; background-position:center; height:250px;"></div>
+                                                 <div style="background-image:url(/assets/images/business-crisis-management-1024x681-1.jpg); background-size:cover; background-position:center; height:250px;"></div>
                                               </a>
                                            </div>
                                            <div class="uc_image_carousel_content" >
@@ -836,31 +836,31 @@
                                   <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
                                      <div class="elementor-image-carousel swiper-wrapper">
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/awards_3.jpg" alt="awards_3" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/awards_3.jpg" alt="awards_3" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2010.jpg" alt="Awards_2010" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2010.jpg" alt="Awards_2010" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2012-13.jpg" alt="Awards_2012-13" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2012-13.jpg" alt="Awards_2012-13" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2014-15.jpg" alt="Awards_2014-15" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2014-15.jpg" alt="Awards_2014-15" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2015-16.jpg" alt="Awards_2015-16" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2015-16.jpg" alt="Awards_2015-16" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2016-17.jpg" alt="Awards_2016-17" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2016-17.jpg" alt="Awards_2016-17" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2017-18.jpg" alt="Awards_2017-18" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2017-18.jpg" alt="Awards_2017-18" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2018-19.jpg" alt="Awards_2018-19" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2018-19.jpg" alt="Awards_2018-19" /></figure>
                                         </div>
                                         <div class="swiper-slide">
-                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mybarjeel.com/wp-content/uploads/2022/08/Awards_2019-20.jpg" alt="Awards_2019-20" /></figure>
+                                           <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/assets/images/Awards_2019-20.jpg" alt="Awards_2019-20" /></figure>
                                         </div>
                                      </div>
                                      <div class="swiper-pagination"></div>
@@ -881,7 +881,7 @@
              <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-65b9eb5c elementor-widget elementor-widget-image" data-id="65b9eb5c" data-element_type="widget" data-widget_type="image.default">
                    <div class="elementor-widget-container">
-                      <img decoding="async" width="420" height="435" src="https://mybarjeel.com/wp-content/uploads/2021/11/app.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/11/app.png 420w, https://mybarjeel.com/wp-content/uploads/2021/11/app-290x300.png 290w" sizes="(max-width: 420px) 100vw, 420px" style="width:100%;height:103.57%;max-width:420px" />
+                      <img decoding="async" width="420" height="435" src="/assets/images/app.png" class="attachment-large size-large" alt="" loading="lazy" srcset="/assets/images/app.png 420w, /assets/images/app-290x300.png 290w" sizes="(max-width: 420px) 100vw, 420px" style="width:100%;height:103.57%;max-width:420px" />
                    </div>
                 </div>
              </div>
@@ -918,7 +918,7 @@
                             <div class="elementor-element elementor-element-56039c85 elementor-widget elementor-widget-image" data-id="56039c85" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
                                   <a href="https://apps.apple.com/in/app/selfie-geojit/id556524248">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/11/apple.png" title="apple" alt="apple" />								</a>
+                                  <img decoding="async" src="/assets/images/apple.png" title="apple" alt="apple" />								</a>
                                </div>
                             </div>
                          </div>
@@ -928,7 +928,7 @@
                             <div class="elementor-element elementor-element-cf7dbf2 elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="cf7dbf2" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
                                   <a href="https://play.google.com/store/apps/details?id=com.git.flipmea.gbnpp&#038;hl=en_IN&#038;gl=US">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/11/googleplay.png" title="googleplay" alt="googleplay" />								</a>
+                                  <img decoding="async" src="/assets/images/googleplay.png" title="googleplay" alt="googleplay" />								</a>
                                </div>
                             </div>
                          </div>
@@ -968,7 +968,7 @@
              <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-cae188a elementor-widget elementor-widget-image" data-id="cae188a" data-element_type="widget" data-widget_type="image.default">
                    <div class="elementor-widget-container">
-                      <img decoding="async" width="616" height="377" src="https://mybarjeel.com/wp-content/uploads/2021/12/banner1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://mybarjeel.com/wp-content/uploads/2021/12/banner1.jpg 616w, https://mybarjeel.com/wp-content/uploads/2021/12/banner1-300x184.jpg 300w" sizes="(max-width: 616px) 100vw, 616px" style="width:100%;height:61.2%;max-width:616px" />
+                      <img decoding="async" width="616" height="377" src="/assets/images/banner1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/assets/images/banner1.jpg 616w, /assets/images/banner1-300x184.jpg 300w" sizes="(max-width: 616px) 100vw, 616px" style="width:100%;height:61.2%;max-width:616px" />
                    </div>
                 </div>
              </div>
@@ -996,12 +996,12 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-ee8d67d elementor-widget elementor-widget-image" data-id="ee8d67d" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo9.png" title="logo9" alt="logo9" />
+                                  <img decoding="async" src="/assets/images/logo9.png" title="logo9" alt="logo9" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-8b9ce03 elementor-widget elementor-widget-image" data-id="8b9ce03" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo16.png" title="logo16" alt="logo16" />
+                                  <img decoding="async" src="/assets/images/logo16.png" title="logo16" alt="logo16" />
                                </div>
                             </div>
                          </div>
@@ -1010,12 +1010,12 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-10ac697 elementor-widget elementor-widget-image" data-id="10ac697" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo10.png" title="logo10" alt="logo10" />
+                                  <img decoding="async" src="/assets/images/logo10.png" title="logo10" alt="logo10" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-32cdbec elementor-widget elementor-widget-image" data-id="32cdbec" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo15.png" title="logo15" alt="logo15" />
+                                  <img decoding="async" src="/assets/images/logo15.png" title="logo15" alt="logo15" />
                                </div>
                             </div>
                          </div>
@@ -1024,12 +1024,12 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-40346ef elementor-widget elementor-widget-image" data-id="40346ef" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo3.png" title="logo3" alt="logo3" />
+                                  <img decoding="async" src="/assets/images/logo3.png" title="logo3" alt="logo3" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-17cbe38 elementor-widget elementor-widget-image" data-id="17cbe38" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo7.png" title="logo7" alt="logo7" />
+                                  <img decoding="async" src="/assets/images/logo7.png" title="logo7" alt="logo7" />
                                </div>
                             </div>
                          </div>
@@ -1038,12 +1038,12 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-9983ea9 elementor-widget elementor-widget-image" data-id="9983ea9" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo11.png" title="logo11" alt="logo11" />
+                                  <img decoding="async" src="/assets/images/logo11.png" title="logo11" alt="logo11" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-b996d14 elementor-widget elementor-widget-image" data-id="b996d14" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo13.png" title="logo13" alt="logo13" />
+                                  <img decoding="async" src="/assets/images/logo13.png" title="logo13" alt="logo13" />
                                </div>
                             </div>
                          </div>
@@ -1052,12 +1052,12 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-79ddffb elementor-widget elementor-widget-image" data-id="79ddffb" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo12.png" title="logo12" alt="logo12" />
+                                  <img decoding="async" src="/assets/images/logo12.png" title="logo12" alt="logo12" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-5e337ba elementor-widget elementor-widget-image" data-id="5e337ba" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo14.png" title="logo14" alt="logo14" />
+                                  <img decoding="async" src="/assets/images/logo14.png" title="logo14" alt="logo14" />
                                </div>
                             </div>
                          </div>
@@ -1070,27 +1070,27 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-991c0b6 elementor-widget elementor-widget-image" data-id="991c0b6" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo9.png" title="logo9" alt="logo9" />
+                                  <img decoding="async" src="/assets/images/logo9.png" title="logo9" alt="logo9" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-301c568 elementor-widget elementor-widget-image" data-id="301c568" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo3.png" title="logo3" alt="logo3" />
+                                  <img decoding="async" src="/assets/images/logo3.png" title="logo3" alt="logo3" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-849c8dd elementor-widget elementor-widget-image" data-id="849c8dd" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo16.png" title="logo16" alt="logo16" />
+                                  <img decoding="async" src="/assets/images/logo16.png" title="logo16" alt="logo16" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-278661b elementor-widget elementor-widget-image" data-id="278661b" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo7.png" title="logo7" alt="logo7" />
+                                  <img decoding="async" src="/assets/images/logo7.png" title="logo7" alt="logo7" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-ac12b26 elementor-widget elementor-widget-image" data-id="ac12b26" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo14.png" title="logo14" alt="logo14" />
+                                  <img decoding="async" src="/assets/images/logo14.png" title="logo14" alt="logo14" />
                                </div>
                             </div>
                          </div>
@@ -1099,27 +1099,27 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-9a766f9 elementor-widget elementor-widget-image" data-id="9a766f9" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo10.png" title="logo10" alt="logo10" />
+                                  <img decoding="async" src="/assets/images/logo10.png" title="logo10" alt="logo10" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-cd435f6 elementor-widget elementor-widget-image" data-id="cd435f6" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo11.png" title="logo11" alt="logo11" />
+                                  <img decoding="async" src="/assets/images/logo11.png" title="logo11" alt="logo11" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-1c6eaef elementor-widget elementor-widget-image" data-id="1c6eaef" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo12.png" title="logo12" alt="logo12" />
+                                  <img decoding="async" src="/assets/images/logo12.png" title="logo12" alt="logo12" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-09c56cf elementor-widget elementor-widget-image" data-id="09c56cf" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo15.png" title="logo15" alt="logo15" />
+                                  <img decoding="async" src="/assets/images/logo15.png" title="logo15" alt="logo15" />
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-18b9278 elementor-widget elementor-widget-image" data-id="18b9278" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container">
-                                  <img decoding="async" src="https://mybarjeel.com/wp-content/uploads/2021/12/logo13.png" title="logo13" alt="logo13" />
+                                  <img decoding="async" src="/assets/images/logo13.png" title="logo13" alt="logo13" />
                                </div>
                             </div>
                          </div>
